@@ -1,4 +1,4 @@
-# Electric circuit with 5servo motors
+# Electric circuit with 5 servo motors
 ## Pre requirement
 * Create an account in [TINKERCAD](https://www.tinkercad.com/join)
 * Create a new Circuit
