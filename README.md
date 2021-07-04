@@ -3,7 +3,7 @@
 * Create an account in [TINKERCAD](https://www.tinkercad.com/join)
 * Create a new Circuit
 
-## Tools. 
+## Tools: 
 1. Breadboard.
 2. Arduino Uno R3.
 3. Micro Servo.
